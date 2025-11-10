@@ -7,7 +7,6 @@ I'm a *software engineer* and *user experience designer*. I've had a lifetime pa
 Find me in the following places:
 
 - [My Website](https://codeincarnate.com)
-- [Twitter](https://twitter.com/flowincarnate)
 - [LinkedIn](https://www.linkedin.com/in/codeincarnate/)
 
 <!---
